@@ -127,8 +127,9 @@ python crawler.py
 如有问题或建议，欢迎通过以下方式联系：
 
 - 提交 [Issue](../../issues)
-- 发送邮件至 [your-email@example.com]
+- 发送邮件至 [694335238@qq.com]
 
 ---
 
 ⭐ 如果这个项目对你有帮助，欢迎 Star 支持！
+
